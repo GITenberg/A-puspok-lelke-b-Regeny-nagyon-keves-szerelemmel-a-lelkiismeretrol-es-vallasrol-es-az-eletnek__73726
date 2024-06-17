@@ -8,6 +8,9 @@ contributor:
     deathdate: 1950
     gutenberg_agent_id: '54065'
     url: http://www.gutenberg.org/2009/agents/54065
+covers:
+- cover_type: archival
+  image_path: 73726-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/30
     wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73726#A-puspok-lelke-b-Regeny-nagyon-keves-szerelemmel-a-lelkiismeretrol-es-vallasrol-es-az-eletnek_
 gutenberg_issued: '2024-05-29'
 gutenberg_type: Text
 identifiers:
